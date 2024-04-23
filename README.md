@@ -7,8 +7,10 @@ Just started an internship at startup as an embedded engineer and here are some 
 Do let me know how can i improve them and additional  features which can be added.
 
 
-Skills 🤹‍♂:
-- 👨‍💻 C / embedded C / python / Tkinter /esp32 
+### 🧰 Languages and Tools 🤹‍♂
+- <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" /> <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+
+
 - 🔭 I’m currently working on ESP32 
 - 🌱 I’m currently learning PYTHON 
 - 📫 How to reach me: bharathagautham@gmail.com 
